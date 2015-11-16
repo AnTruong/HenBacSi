@@ -1,0 +1,65 @@
+/*
+Designed by Stone IT Team
+Email: support@stoneitteam
+Website: http://stoneitteam.com
+*/
+/* ================================================
+   THEME SPECIFIC STYLES : VISUAL STYLES ONLY
+   ================================================ */
+
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #A2A2A2;
+    position: relative;
+}
+
+a {
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -ms-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+}
+
+
+.light-cyan-bg{
+    background-color: #D7F9FA;
+}
+.md-turquoise-bg{
+    background-color: #42C9C5;
+}
+.java-bg{
+    background-color: #19A09C;
+}
+
+/* 
+  BUTTONS
+  ------- */
+button:hover, button:focus{
+    opacity: 0.7;
+}
+
+.btn-orange{
+    background-color: #E97721;
+    color: white;
+}
+.btn-default {
+    background-color: #E97721;
+    color: white;
+    border-radius: 25px;
+}
+
+/* 
+  TEXT
+  ------- */
+.white-text{
+    color: white;
+}
+
+footer{
+    background-color: #19A09C;
+    color: #ffffff;
+}
